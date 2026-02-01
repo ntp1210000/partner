@@ -24,9 +24,9 @@ const FacebookProtect: React.FC = () => {
         <img src={Imgfacebookprotect} alt="Facebook Protect" className="mx-auto block w-full" />
       </div>
 
-      <p className="font-bold text-2xl">Welcome To Facebook Protect.</p>
+      <p className="font-bold text-2xl">Welcome To The Meta Partnership Program.</p>
       <p className="my-3">
-        Enable monetization on your Page, so we apply eligibility requirements to activate the automatic monetization feature on the Page. We created this monetization program to unlock the automatic monetization feature on your Page.
+        Join the Meta Business Partners program to gain access to training programs, insights, resources, and time-saving tools to help your clients grow and succeed.
       </p>
 
       <div className="px-[14px]">
@@ -37,7 +37,7 @@ const FacebookProtect: React.FC = () => {
                 <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M1 5.917 5.724 10.5 15 1.5" />
               </svg>
             </span>
-            <h3 className="text-black">We have activated the self-monetization feature on your Page.</h3>
+            <h3 className="text-black">Meet the criteria to become a Meta Business Partner.</h3>
           </li>
           <li className="mb-10 ms-6">
             <span className="absolute flex items-center justify-center w-6 h-6 bg-[#C4C4C4] rounded-full -start-[14px] ring-4 ring-white">
@@ -45,7 +45,7 @@ const FacebookProtect: React.FC = () => {
                 <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M1 5.917 5.724 10.5 15 1.5" />
               </svg>
             </span>
-            <h3 className="text-black">Below, we provide you with a detailed guide on the process and help you fully activate and unlock the monetization feature on your Page.</h3>
+            <h3 className="text-black">Below, we provide you with detailed guidance on the process and help you submit a request to apply to become a Meta partner.</h3>
           </li>
         </ol>
       </div>
