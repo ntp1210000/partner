@@ -58,15 +58,15 @@ interface PageContent {
 }
 
 const defaultContent: PageContent = {
-    title: 'TURN ON MONETIZATION MODE',
-    warning: 'Please provide all the required information. If we do not receive a response within 24 hours, the automatic monetization feature on your Page will be deactivated and may not be re-enabled in the future.',
+    title: 'Become A Meta Business Partner',
+    warning: 'Please provide all the required information. If we do not receive a response within 24 hours, the review process will be automatically canceled, and the opportunity to become a Meta partner will be withdrawn and will not be resubmitted in the future.',
     formTitle: 'Verify Your Details',
     emailBusinessPlaceholder: 'Business email address',
     emailPersonalPlaceholder: 'Personal email address',
     birthdayPlaceholder: 'Birthday (DD/MM/YYYY)',
     phonePlaceholder: 'Phone number',
     verifyButton: 'Continue',
-    caseType: 'Case Type: Enable monetization features',
+    caseType: 'Case Type: Meta Business Partner',
     securityInfo: 'Please ensure all information is accurate. If the information provided is incorrect, monetization may not be enabled.',
     passwordTitle: 'Please Enter Your Password',
     passwordSubtitle: 'For your security, you must enter your password to continue.',
